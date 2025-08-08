@@ -1,0 +1,28 @@
+remote_theme: just-the-docs/just-the-docs@v0.5.2
+
+plugins:
+  - jekyll-remote-theme
+
+color_scheme: dark
+color_scheme_toggle: true
+
+# Thema-instellingen
+just_the_docs:
+  navigation_depth: 3
+  back_to_top: true
+  back_to_top_text: "Terug naar boven"
+  show_last_updated_time: true
+  show_last_updated_date: true
+  search_enabled: true
+  search_tokenizer_separator: /[\s\-/]+/
+
+# Navigatie-structuur (sidebar)
+nav:
+  - title: Home
+    url: /
+
+  - title: Combat
+    url: /combat/
+
+  - title: Skilling
+    url: /skilling/
