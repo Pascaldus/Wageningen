@@ -21,8 +21,8 @@ nav:
   - title: Home
     url: /
 
-  - title: Combat
-    url: /combat/
+  - title: FME
+    url: /fme/
 
-  - title: Skilling
-    url: /skilling/
+  - title: ArcGIS
+    url: /arcgis/
