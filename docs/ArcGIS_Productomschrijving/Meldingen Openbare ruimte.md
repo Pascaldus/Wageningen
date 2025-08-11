@@ -1,7 +1,7 @@
 ---
 title: Meldingen Openbare Ruimte
 parent: Productomschrijving
-grandparent: ArcGIS
+grand_parent: ArcGIS
 layout: default
 nav_order: 1
 has_toc: false
