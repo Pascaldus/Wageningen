@@ -82,3 +82,4 @@ De lagen *Perceel Onroerende Zaak*, *Gerechtigde*, *Publiekrechtelijke Beperking
   "highlightColorOpacity": 0.3,
   "brkVersion": "3.0"
 }
+```
