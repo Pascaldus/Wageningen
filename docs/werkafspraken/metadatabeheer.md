@@ -1,10 +1,10 @@
 ---
 title: Metadatabeheer
-parent: werkafspraken
+parent: Werkafspraken
 layout: default
 nav_order: 3
 has_toc: false
 ---
 
 # Metadatabeheer
-Nog schrijven
+Nog schrijven.
