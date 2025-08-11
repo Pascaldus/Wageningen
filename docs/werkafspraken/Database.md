@@ -41,13 +41,6 @@ Op deze database zetten wij data die:
 | `FME@PGEO`      | Actieve database, standaard werkomgeving |
 | `GBETLNEW@PGEO` | Oude database, historisch gebruik        |
 
----
-
-## Waarschuwing
-
-{: .warning }
-Data op **GeoWagDMZ** kan zowel extern als intern gedeeld worden.  
-Data op **PGEO** kan enkel intern gedeeld worden.
 
 ---
 
@@ -59,3 +52,8 @@ Naast de twee hoofd-databases werken wij ook met:
 |----------|----------------------------------------|
 | `PKIK`   | Database voor BRUTIS (Riooldata)       |
 | `PDIA`   | Database van DgDialog (BGT-software)   |
+
+
+{: .warning }
+Data op **GeoWagDMZ** kan zowel extern als intern gedeeld worden.  
+Data op **PGEO** kan enkel intern gedeeld worden.
