@@ -44,6 +44,7 @@ Vermijd afkortingen tenzij ze algemeen bekend zijn. Kies voor klare taal zodat d
 
 ### Voorbeelden
 
-```text
-ST_BGT_VEGETATIEOBJECT   - Correct
-ST_BGT_VO                - Niet duidelijk
+| Naam                  | Beoordeling     |
+|-----------------------|-----------------|
+| ST_BGT_VEGETATIEOBJECT | Correct         |
+| ST_BGT_VO              | Niet duidelijk  |
