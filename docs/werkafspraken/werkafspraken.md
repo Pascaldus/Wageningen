@@ -1,6 +1,6 @@
 ---
 title: Werkafspraken
-parent: FME
+parent: Algemeen
 layout: default
 nav_order: 1
 has_toc: false
