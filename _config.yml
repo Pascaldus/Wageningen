@@ -13,10 +13,6 @@ nav_enabled: true
 # nav_sort: case_insensitive # default, equivalent to nil
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
-liquid:
-  error_mode: strict
-  strict_filters: true
-
 callouts_level: quiet # or loud
 callouts:
   highlight:
@@ -34,27 +30,7 @@ callouts:
     title: Warning
     color: red
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-include-cache
-  - jekyll-sitemap
-
 kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: false
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
-  # ignore:
-  #   envs: all
-
-sass:
-  quiet_deps: true # https://github.com/just-the-docs/just-the-docs/issues/1541
-  silence_deprecations: ['import'] # https://github.com/just-the-docs/just-the-docs/issues/1607
