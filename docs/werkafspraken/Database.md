@@ -46,9 +46,8 @@ Op deze database zetten wij data die:
 ## Waarschuwing
 
 {: .warning }
-
-- Data op **GeoWagDMZ** kan zowel extern als intern gedeeld worden.  
-- Data op **PGEO** kan uitsluitend intern gedeeld worden.
+Data op **GeoWagDMZ** kan zowel extern als intern gedeeld worden.  
+Data op **PGEO** kan enkel intern gedeeld worden.
 
 ---
 
@@ -58,5 +57,5 @@ Naast de twee hoofd-databases werken wij ook met:
 
 | Database | Doel                                  |
 |----------|----------------------------------------|
-| `PKIK`   | Database voor BRUTIS (riooldata)       |
+| `PKIK`   | Database voor BRUTIS (Riooldata)       |
 | `PDIA`   | Database van DgDialog (BGT-software)   |
