@@ -2,6 +2,6 @@
 title: Handleidingen
 parent: ArcGIS
 layout: default
-nav_order: 2
+nav_order: 1
 has_toc: false
 ---
