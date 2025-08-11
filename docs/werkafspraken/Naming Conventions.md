@@ -39,11 +39,11 @@ Datasets bouwen wij op met een vaste naamstructuur. Deze bestaat uit drie onderd
 
 Gebruik duidelijke en beschrijvende namen voor het datatype.
 
-> **Let op**  
-> Vermijd afkortingen tenzij ze algemeen bekend zijn. Kies voor klare taal zodat datasets makkelijk te herkennen zijn.
+{: .important }
+Vermijd afkortingen tenzij ze algemeen bekend zijn. Kies voor klare taal zodat datasets makkelijk te herkennen zijn.
 
 ### Voorbeelden
 
 ```text
-ST_BGT_VEGETATIEOBJECT   ✅ Correct
-ST_BGT_VO                ❌ Niet duidelijk
+ST_BGT_VEGETATIEOBJECT   - Correct
+ST_BGT_VO                - Niet duidelijk
