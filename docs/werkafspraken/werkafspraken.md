@@ -8,4 +8,4 @@ has_toc: false
 
 # Werkafspraken
 
-Overzicht van werkafspraken binnen het Geo-Domein.
+Overzicht van de werkafspraken binnen het Geo-Domein.
