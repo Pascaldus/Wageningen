@@ -1,12 +1,12 @@
 ---
-title: Data plaatsen op de database
+title: Naming conventions
 parent: Werkafspraken
 layout: default
 nav_order: 2
 has_toc: true
 ---
 
-# Data plaatsen op de database
+# Naming conventions
 
 Als een enkele dataset wordt gebruikt, mag deze in de hoofdstructuur van de database worden geplaatst.
 
