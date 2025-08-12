@@ -7,7 +7,7 @@ nav_order: 1
 has_toc: false
 ---
 
-# Handleiding opmaken kaartapplicatie in nieuwe huisstijl
+# Handleiding opmaken kaartapplicatie
 
 ## 1. Template webmap openen
 
