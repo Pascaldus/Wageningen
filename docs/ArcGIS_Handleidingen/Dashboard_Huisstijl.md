@@ -31,7 +31,7 @@ has_toc: false
   [Template webapp](https://wageningen.maps.arcgis.com/home/item.html?id=d77c1c44d7c14b15b9e6e74f61f314c5)
 
 **Voorbeeld applicatie:**  
-[Voorbeeldkaartapplicatie](https://gis.wageningen.nl/portal/home/item.html?id=86e9945bb8434db5ad2785435562561b)
+[Leegstand Viewer](https://gis.wageningen.nl/portal/home/item.html?id=86e9945bb8434db5ad2785435562561b)
 
 **Stappen:**  
 1. Klik op **Dashboard bewerken**  
