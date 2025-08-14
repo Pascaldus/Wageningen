@@ -97,7 +97,7 @@ has_toc: false
   - Maximumhoogte: **Geen**  
 4. Onder **Acties**:  
   - Filteren:  
-    - Vink de relevante lagen aan, methode: **Spatial**  
+    - Vink de relevante lagen aan, methode: **Spatial** (CBS Gemeente actueel uitgevinkt laten) 
     - Voor **CBS Wijk actueel**: vink **Alleen renderen indien gefilterd** aan  
   - Zoomen:  
     - Vink de **webmap** aan
