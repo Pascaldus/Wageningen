@@ -81,6 +81,27 @@ has_toc: false
 14. Schuif de balken zodat de kaart **80% breed** is voor de overzichtskaart.  
 15. Configureer de categorieselector naar wens (kijk ter inspiratie naar voorbeeldapplicaties).
 
+
+### Standaard wijkselectie (categorieselector)
+
+1. Open de categorieselector: **drie puntjes → tandwieltje**.  
+2. Onder **Gegevens**:  
+  - Instellingen: **Objecten**  
+  - Kaartlaag: **CBS Wijk actueel**  
+  - Template: **`{field/statnaam}`**  
+3. Onder **Keuzeschakelaar**:  
+  - Label: **Selecteer wijken**  
+  - Presentatiemodus: **Inline**  
+  - Weergavetype: **Lijst**  
+  - Selectie: **Meerdere**  
+  - Maximumhoogte: **Geen**  
+4. Onder **Acties**:  
+  - Filteren:  
+    - Vink de relevante lagen aan, methode: **Spatial**  
+    - Voor **CBS Wijk actueel**: vink **Alleen renderen indien gefilterd** aan  
+  - Zoomen:  
+    - Vink de **webmap** aan
+
 ---
 
 ## 4. Notities
