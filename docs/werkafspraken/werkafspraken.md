@@ -3,7 +3,7 @@ title: Werkafspraken
 parent: Algemeen
 layout: default
 nav_order: 1
-has_toc: false
+has_toc: true
 ---
 
 # Werkafspraken
