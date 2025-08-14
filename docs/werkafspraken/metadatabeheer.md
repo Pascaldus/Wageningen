@@ -48,16 +48,27 @@ Om te zorgen dat **Actualisatie_Datum**, **Actueel** en **Telaat_dagen** automat
 1. Open **FME Form** (Workbench).
 2. Gebruik de functie **Download from FME Flow** om een bestaand geplande script te downloaden.
 3. Selecteer in dat workspace het blok **Metadata Timestamp**.
-4. Kopieer de selectie met `Ctrl+C`.
-5. Open je huidige script en plak de selectie met `Ctrl+V`.
-6. **Pas de instellingen van de reader aan**:
+   <p align="center">
+  <img src="assets/images/Metadata_Timestamp.png"
+       alt="Selecteer het blok 'Metadata Timestamp' in FME Workspace"
+       width="800">
+</p>
+5. Kopieer de selectie met `Ctrl+C`.
+6. Open je huidige script en plak de selectie met `Ctrl+V`.
+7. **Pas de instellingen van de reader aan**:
    - Ga naar de **WHERE Clause** en wijzig het **Script_nummer** naar het scriptnummer dat je eerder in stap 1 hebt ingevuld in `FME.ACT_MasterMetadata`.
-7. Verbind het timestamp-blok logisch in de workflow:
+<p align="center">
+  <img src="assets/images/Metadata_scriptnummer.png"
+       alt="WHERE Clause met aangepast Script_nummer in FME Reader"
+       width="800">
+</p>
+
+8. Verbind het timestamp-blok logisch in de workflow:
    - Plaats het ná de schrijvers (writers) die de dataset wegschrijven.
    - Zorg dat de juiste attributen worden ingevuld richting `FME.ACT_MasterMetadata`
      (minimaal: `Script_nummer`, `Actualisatie_Datum`)
-8. Sla het script op.
-9. **Publiceer** het script naar FME Flow (indien van toepassing) en voeg het toe aan de juiste schedule.
+9. Sla het script op.
+10. **Publiceer** het script naar FME Flow (indien van toepassing) en voeg het toe aan de juiste schedule.
 
 ---
 
