@@ -12,9 +12,9 @@ has_toc: false
 ## 1. Template webmap openen
 
 - **Intern portaal:**  
-  https://gis.wageningen.nl/portal/home/item.html?id=c0d1021541044bb5a9ec000ed418904d  
+  [Template webmap](https://gis.wageningen.nl/portal/home/item.html?id=c0d1021541044bb5a9ec000ed418904d)  
 - **Extern portaal:**  
-  https://wageningen.maps.arcgis.com/home/item.html?id=75f78d75b15c4bf5a9d1c1ef41064b1a
+  [Template webmap](https://wageningen.maps.arcgis.com/home/item.html?id=75f78d75b15c4bf5a9d1c1ef41064b1a)
 
 **Stappen:**  
 1. Klik op **Open in Map Viewer**.  
@@ -26,10 +26,10 @@ has_toc: false
 ### Lagen van de webmap vinden
 
 1. Open het Excel-bestand met de werkvoorraad.  
-2. Kopieer de ID achter `index.html?id=` in de WebApp-URL, bijvoorbeeld:  
-   `https://wageningen.maps.arcgis.com/apps/webappviewer/index.html?id=9304536403b04f2390637eb2aac92199`  
+2. Kopieer de ID achter `index.html?id=` in de WebApp‑URL, bijvoorbeeld:  
+   [https://wageningen.maps.arcgis.com/apps/webappviewer/index.html?id=9304536403b04f2390637eb2aac92199](https://wageningen.maps.arcgis.com/apps/webappviewer/index.html?id=9304536403b04f2390637eb2aac92199)  
    → De ID is: `9304536403b04f2390637eb2aac92199`.  
-3. Ga naar het externe geoportaal: `https://wageningen.maps.arcgis.com/`, klik op **Content** en open een willekeurige laag.  
+3. Ga naar het externe geoportaal: [https://wageningen.maps.arcgis.com/](https://wageningen.maps.arcgis.com/) en klik op **Content**. Open vervolgens een willekeurige laag.  
 4. Vervang in de adresbalk de cijfers achter `id=` met de eerder gekopieerde ID.  
 5. Je komt nu op de pagina van de **WebApp**. Klik op **Applicatie bewerken**.  
 6. Ga naar het tabblad **Kaart**.  
@@ -49,22 +49,18 @@ has_toc: false
 ## 2. Template webapp openen
 
 - **Intern portaal:**  
-  https://gis.wageningen.nl/portal/home/item.html?id=0b77fdc492bf4537ad1c9863aab10c47  
+  [Template webapp](https://gis.wageningen.nl/portal/home/item.html?id=0b77fdc492bf4537ad1c9863aab10c47)  
 - **Extern portaal:**  
-  https://wageningen.maps.arcgis.com/home/item.html?id=d77c1c44d7c14b15b9e6e74f61f314c5
+  [Template webapp](https://wageningen.maps.arcgis.com/home/item.html?id=d77c1c44d7c14b15b9e6e74f61f314c5)
 
 **Voorbeeld applicatie:**  
-https://gis.wageningen.nl/portal/home/item.html?id=86e9945bb8434db5ad2785435562561b
+[Leegstand Viewer](https://gis.wageningen.nl/portal/home/item.html?id=86e9945bb8434db5ad2785435562561b)
 
 **Stappen:**  
 1. Klik op **Dashboard bewerken**.  
 2. Klik op **Opslaan als**.  
 3. Geef de applicatie de naam `WA_Onderwerp`.  
 4. Plaats de applicatie in de map **Kaartapplicaties**.
-
-{: .warning } 
-> **Let op**  
-> Het is niet mogelijk om de kaart te vervangen; maak een nieuw kaartelement aan.
 
 ---
 
@@ -78,4 +74,17 @@ https://gis.wageningen.nl/portal/home/item.html?id=86e9945bb8434db5ad27854355625
 6. Vul in: **Onderwerpkaart** (bold, Kop 2, gecentreerd). Voorbeeld: *Afkoppelingsgebieden*, *Parkeren*.  
 7. Stel tekstkleur in op `#102652`.  
 8. Stel voorgrondkleur in op `#F5F5F5`.  
-9. Klik opnieuw op het
+9. Klik opnieuw op het **+ icoontje**, daarna het **plusje rechts**.  
+10. Selecteer **Kaartlegenda**.  
+11. Bij **Bijschrift top** vul je in: **Legenda** (bold, Kop 2, gecentreerd).  
+12. Tekstkleur: `#102652`.  
+13. Voorgrondkleur: `#F5F5F5`.  
+14. Schuif de balken zodat de kaart **80% breed** is voor de overzichtskaart.  
+15. Configureer de categorieselector naar wens (kijk ter inspiratie naar voorbeeldapplicaties).
+
+---
+
+## 4. Notities
+
+- In het interne portaal kun je de opmaak van de zijbalk-elementen aanpassen in het **titelveld**.  
+- In ArcGIS Online maak je de titel op via het veld **Bijschrift top**, omdat de zijbalk-titeloptie daar ontbreekt.
