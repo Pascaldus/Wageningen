@@ -63,23 +63,34 @@ has_toc: false
 
 ---
 
-## 3. Kaart aanpassen
+### 3. Kaart aanpassen
 
 1. Verwijder de kaart in het midden.  
 2. Klik op het **+ icoontje**.  
 3. Druk in het midden opnieuw op het **+ icoontje** en selecteer **Kaart**.  
 4. Kies de eerder aangemaakte `WM_Onderwerp`.  
-5. Ga naar de instellingen van de kaart en open **Bijschrift top**.  
-6. Vul in: **Onderwerpkaart** (bold, Kop 2, gecentreerd). Voorbeeld: *Afkoppelingsgebieden*, *Parkeren*.  
-7. Stel tekstkleur in op `#102652`.  
-8. Stel voorgrondkleur in op `#F5F5F5`.  
-9. Klik opnieuw op het **+ icoontje**, daarna het **plusje rechts**.  
-10. Selecteer **Kaartlegenda**.  
-11. Bij **Bijschrift top** vul je in: **Legenda** (bold, Kop 2, gecentreerd).  
-12. Tekstkleur: `#102652`.  
-13. Voorgrondkleur: `#F5F5F5`.  
-14. Schuif de balken zodat de kaart **80% breed** is voor de overzichtskaart.  
-15. Configureer de categorieselector naar wens (kijk ter inspiratie naar voorbeeldapplicaties).
+
+#### Instellingen voor de kaart
+
+- Onder **Instellingen**:  
+  - Meting: **Aan**  
+  - Zoeken: **Aan**  
+  - Laagzichtbaarheid: **Aan**  
+  - Basiskaart‑wisselaar: **Aan**  
+
+- Onder **Algemeen**:  
+  - Bijschrift top: **Onderwerpkaart** *(bold, Kop 2, gecentreerd)*  
+    - Voorbeelden: *Afkoppelingsgebieden*, *Parkeren*  
+  - Tekstkleur: `#102652`  
+  - Voorgrondkleur: `#F5F5F5`  
+
+5. Klik opnieuw op het **+ icoontje**, daarna het **plusje rechts**.  
+6. Selecteer **Kaartlegenda**.  
+7. Bij **Bijschrift top** vul je in: **Legenda** *(bold, Kop 2, gecentreerd)*.  
+8. Tekstkleur: `#102652`.  
+9. Voorgrondkleur: `#F5F5F5`.  
+10. Schuif de balken zodat de kaart **80% breed** is voor de overzichtskaart.  
+11. Configureer de categorieselector naar wens (kijk ter inspiratie naar voorbeeldapplicaties).  
 
 
 ### Standaard wijkselectie (categorieselector)
