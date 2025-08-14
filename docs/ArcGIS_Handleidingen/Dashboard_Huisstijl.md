@@ -40,7 +40,7 @@ has_toc: false
 11. Neem deze lagen op in de **nieuwe webmap**.  
 12. Open de oude webmap naast de nieuwe om waar nodig de **symbologie** over te nemen.
 
-{: .note-title }
+{: .note }
 > **Tip**  
 > Houd de oude en nieuwe webmap in twee tabbladen of vensters naast elkaar voor snel vergelijken en kopiëren.
 
@@ -62,7 +62,7 @@ https://gis.wageningen.nl/portal/home/item.html?id=86e9945bb8434db5ad27854355625
 3. Geef de applicatie de naam `WA_Onderwerp`.  
 4. Plaats de applicatie in de map **Kaartapplicaties**.
 
-{: .warning-title }
+{: .warning } 
 > **Let op**  
 > Het is niet mogelijk om de kaart te vervangen; maak een nieuw kaartelement aan.
 
