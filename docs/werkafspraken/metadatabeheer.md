@@ -51,7 +51,9 @@ Om te zorgen dat **Actualisatie_Datum**, **Actueel** en **Telaat_dagen** automat
 3. Selecteer in dat workspace het blok **Metadata Timestamp**.
 4. Kopieer de selectie met `Ctrl+C`.
 
-![Selecteer het blok 'Metadata Timestamp' in FME Workspace](/assets/images/Metadata_Timestamp.png)
+{:refdef: style="text-align: center;"}
+![Metadata Timestamp](/assets/images/Metadata_Timestamp.png)
+{: refdef}
 
 5. Open je huidige script en plak de selectie met `Ctrl+V`.
 6. Pas de instellingen van de reader aan:
