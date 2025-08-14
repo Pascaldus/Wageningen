@@ -9,13 +9,15 @@ has_toc: false
 # Handige links
 
 ## GIS Portalen
-- Intern portaal: [https://gis.wageningen.nl/portal/home/index.html](https://gis.wageningen.nl/portal/home/index.html)
-- Extern portaal: [https://wageningen.maps.arcgis.com/home/content.html](https://wageningen.maps.arcgis.com/home/content.html)
+- [Intern portaal](https://gis.wageningen.nl/portal/home/index.html)
+- [Extern portaal](https://wageningen.maps.arcgis.com/home/content.html)
 
 ## GIS Server managers
-- Server manager intern: [https://gis.wageningen.nl/arcgis/manager/](https://gis.wageningen.nl/arcgis/manager/)
-- Server manager extern: [https://geoportaal.wageningen.nl/arcgis/manager/](https://geoportaal.wageningen.nl/arcgis/manager/)
+- [Server manager intern](https://gis.wageningen.nl/arcgis/manager/)
+- [Server manager extern](https://geoportaal.wageningen.nl/arcgis/manager/)
 
+## FME Server
+- [FME Server](http://wfmep/fmeserver/)
 ## FME Server
 - [http://wfmep/fmeserver/](http://wfmep/fmeserver/)
 
