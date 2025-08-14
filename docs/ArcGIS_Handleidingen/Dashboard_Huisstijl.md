@@ -40,8 +40,7 @@ has_toc: false
 11. Neem deze lagen op in de **nieuwe webmap**.  
 12. Open de oude webmap naast de nieuwe om waar nodig de **symbologie** over te nemen.
 
-{: .note }
-> **Tip**  
+{: .note }  
 > Houd de oude en nieuwe webmap in twee tabbladen of vensters naast elkaar voor snel vergelijken en kopiëren.
 
 ---
