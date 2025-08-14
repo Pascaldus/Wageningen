@@ -70,7 +70,7 @@ has_toc: false
 3. Druk in het midden opnieuw op het **+ icoontje** en selecteer **Kaart**.  
 4. Kies de eerder aangemaakte `WM_Onderwerp`.  
 
-#### Instellingen voor de kaart
+# Instellingen voor de kaart
 
 - Onder **Instellingen**:  
   - Meting: **Aan**  
