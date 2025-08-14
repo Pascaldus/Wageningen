@@ -40,8 +40,6 @@ Om metadata bij te houden zijn er twee dingen nodig:
 - Vul de velden in conform bovenstaande tabel (inclusief alle Locatie_Dataset-velden).
 - Vergeet niet een uniek en opvolgend **Script_nummer** mee te geven.
 
-> Tip: hanteer een vaste naamgevingsconventie voor datasets en scriptnummers, zodat filtering en automatische rapportages betrouwbaar blijven.
-
 ---
 
 ### 2) Toevoegen script aan MasterMetadata
@@ -72,6 +70,7 @@ Om te zorgen dat **Actualisatie_Datum**, **Actueel** en **Telaat_dagen** automat
 
 > Let op:
 > - Controleer in de timestamp-component de databaseverbinding en veldnamen (moeten overeenkomen met `FME.ACT_MasterMetadata`).
+> - Controleer dat de writer altijd op **Update** en **Use Existing** blijft staan.
 > - Controleer dat het script schrijft met exact hetzelfde **Script_nummer** als in de tabel.
 > - Test handmatig een run en verifieer in `FME.ACT_MasterMetadata` dat de velden correct zijn bijgewerkt.
 
