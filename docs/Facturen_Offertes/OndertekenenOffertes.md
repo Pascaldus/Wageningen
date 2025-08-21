@@ -22,3 +22,5 @@ Voor het ondertekenen van offertes wordt gebruikgemaakt van de applicatie **Zyny
 4. Kies bij **Ondertekenaars**: selecteer een contactpersoon en type de naam van de **manager Bedrijfsvoering**.
 
 5. Kies bij **Kopie naar** de **GEO-collega's**.
+
+6. Verstuur het document, zodra het ondertekend is ontvang je per mail het bestand.
