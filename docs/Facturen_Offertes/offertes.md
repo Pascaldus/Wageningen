@@ -40,7 +40,8 @@ Voordat er met een bedrijf in zee wordt gegaan, wordt een offerte opgevraagd. Hi
 ## Offertes opslaan
 
 - Locatie: contractenfolder in SharePoint  
-  https://gemeentewageningen.sharepoint.com/:f:/t/ORG_BDV_Informatisering_Datateam/EgvE4UAkBQlMoQkxVpTf0x4BDZ2gWhrdI1RBgqxl8b1pTA?e=5L36kh
+[Contractenfolder in SharePoint](https://gemeentewageningen.sharepoint.com/:f:/t/ORG_BDV_Informatisering_Datateam/EgvE4UAkBQlMoQkxVpTf0x4BDZ2gWhrdI1RBgqxl8b1pTA?e=5L36kh)
+
 
 - Indeling van mappen:
   - Map / Bedrijf of Thema / Jaargang / Offerte of Factuur / Document
